@@ -2,14 +2,4 @@
 
 Quy trình up code:
 
-Feature branch
-      ↓
- Pull Request
-      ↓
-    Review
-      ↓
-   develop
-      ↓
-     Test
-      ↓
-    master
+Feature branch --> Pull Request --> Review --> develop --> Test --> master
