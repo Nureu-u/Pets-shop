@@ -4,12 +4,12 @@ Quy trình up code:
 
 Feature branch
       ↓
-Pull Request
+ Pull Request
       ↓
-Review
+    Review
       ↓
-develop
+   develop
       ↓
-Test
+     Test
       ↓
-master
+    master
